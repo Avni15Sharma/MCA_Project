@@ -1,2 +1,2 @@
 # MCA_Project
-Learning Git
+This is a demo project for learning GIT.
